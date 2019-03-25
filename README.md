@@ -4,7 +4,7 @@ This project is to predict the fraud credit card. Three models will be implement
 - Random Forest
 - Gredient Boosting Tree
 
-The whole project would be devided into five parts:
+The whole project will be devided into five parts:
 - Upload data
 - Exploratory Data Analyst and Data Engeering
 - Useful functions defination
